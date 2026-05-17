@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Mac OS
+.DS_Store
+
+# Large processed datasets (exceed GitHub file size limits; generate locally)
+**/dataset_procesado_completo.csv
