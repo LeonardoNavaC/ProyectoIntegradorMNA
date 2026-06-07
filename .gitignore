@@ -222,3 +222,5 @@ __marimo__/
 
 # Large processed datasets (exceed GitHub file size limits; generate locally)
 **/dataset_procesado_completo.csv
+
+.vscode/
